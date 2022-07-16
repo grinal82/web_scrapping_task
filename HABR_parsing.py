@@ -7,7 +7,7 @@ KEYWORDS = ['дизайн', 'фото', 'web', 'python',
 
 HEADERS = {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36',
            'Cache-Control': 'max-age=0', 'DNT': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
-HUBS = ['JavaScript', 'Java', 'Старое железо']
+
 
 base_url = 'http://habr.com'
 url = base_url+'/ru/all/'
